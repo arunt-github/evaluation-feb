@@ -1,0 +1,9 @@
+Task B
+
+Firstly I tried to do task a, but using 'fasttext' model and 'inltk' model, but model models are failed to run in laptop. I tried to resolve the bugs every time some thing new arrived. 
+
+I spend my time on task a until the time 4 pm, after that i started to do taks b.
+
+I tried to port the code but It didn't completed due to time constrains.
+
+I need to write 2 more functions.
